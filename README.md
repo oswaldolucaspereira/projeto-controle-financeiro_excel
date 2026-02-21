@@ -78,12 +78,4 @@ Projeto aplicável para áreas como:
 - Auxiliar Financeiro
 - Gestão Empresarial
 
----
-
-## 📷 Imagens do Projeto
-
-### 📊 Dashboard
-![Dashboard](NOME-DA-IMAGEM-DASHBOARD.png)
-
-### 📈 Resumo Financeiro
-![Resumo](NOME-DA-IMAGE)
+FEITO POR OSWALDO LUCAS.
