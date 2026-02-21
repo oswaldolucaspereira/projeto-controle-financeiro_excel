@@ -78,4 +78,4 @@ Projeto aplicável para áreas como:
 - Auxiliar Financeiro
 - Gestão Empresarial
 
-FEITO POR OSWALDO LUCAS.
+FEITO POR OSWALDO LUCAS, COM AJUDA DA IA.
